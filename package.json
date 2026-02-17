@@ -16,10 +16,21 @@
     "cli",
     "commit",
     "automation",
-    "conventional-commits"
+    "conventional-commits",
+    "git-automation",
+    "commit-messages",
+    "developer-tools"
   ],
-  "author": "",
+  "author": "Shibaditya Deb",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shibadityadeb/SmartGit"
+  },
+  "bugs": {
+    "url": "https://github.com/shibadityadeb/SmartGit"
+  },
+  "homepage": "https://github.com/shibadityadeb/SmartGit",
   "dependencies": {
     "simple-git": "^3.22.0",
     "inquirer": "^9.2.15",
