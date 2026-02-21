@@ -118,7 +118,7 @@ git add feature.js
 smartgit push --staged
 ```
 
-#### Incremental Developmen
+#### Incremental Development
 ```bash
 # Check unstaged first
 smartgit push --unstaged
